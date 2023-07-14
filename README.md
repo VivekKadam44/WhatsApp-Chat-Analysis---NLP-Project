@@ -34,9 +34,9 @@ A data science project that utilizes natural language processing (NLP) technique
 pip install -r requirements.txt
 
 ## Usage
--Place your WhatsApp chat export file (chat.txt or chat.csv) in the project directory.
--Open the Jupyter Notebook or Python IDE.
--Open the whatsapp_chat_analysis.ipynb notebook.
--Modify the file path in the notebook to point to your chat data file.
--Run the notebook cell by cell to perform the analysis.
+-Place your WhatsApp chat export file (chat.txt or chat.csv) in the project directory.\
+-Open the Jupyter Notebook or Python IDE.\
+-Open the whatsapp_chat_analysis.ipynb notebook.\
+-Modify the file path in the notebook to point to your chat data file.\
+-Run the notebook cell by cell to perform the analysis.\
 -Explore the results, visualizations, and insights obtained from the chat data.
