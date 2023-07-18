@@ -41,6 +41,6 @@ pip install -r requirements.txt
 -Run the notebook cell by cell to perform the analysis.\
 -Explore the results, visualizations, and insights obtained from the chat data.
 
-##Note
+## Note
 There are some errors in the code lines of the "Sentiment-based Word Cloud" section. The code is not able to detect any positive or negative words from the word clouds. This issue can also be observed in the previous codes, as no positive or negative words were detected in the dataset.\
 In the "Picture Analysis" section, no images were exchanged in the chat data. Therefore, the specified path is a dummy path, resulting in the "colors.pkl" file not being created. This is the reason for the displayed error.
